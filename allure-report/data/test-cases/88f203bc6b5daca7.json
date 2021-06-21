@@ -1,0 +1,82 @@
+{
+  "uid" : "88f203bc6b5daca7",
+  "name" : "",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.",
+  "historyId" : "d860439f113c145bb52445b5f19445af",
+  "time" : {
+    "start" : 1623044599569,
+    "stop" : 1623044599569,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.77"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d3a0e9cf83c5af7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044597767,
+        "stop" : 1623044597768,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1360ecaaa9f91894",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044597753,
+        "stop" : 1623044597754,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "419159ebc962aaf3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044555405,
+        "stop" : 1623044555407,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88f203bc6b5daca7.json",
+  "parameterValues" : [ "chrome-91.0.4472.77" ]
+}

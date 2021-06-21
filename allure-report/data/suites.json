@@ -1,0 +1,87 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "The Internet Guinea Pig Website: As a user, I can log into the secure area",
+    "children" : [ {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "b76e702c0e2058d3",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044596309,
+        "stop" : 1623044597691,
+        "duration" : 1382
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.77" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "184f5dece35af438",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044597691,
+        "stop" : 1623044597753,
+        "duration" : 62
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.77" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "aa1c77115d998639",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044597768,
+        "stop" : 1623044598308,
+        "duration" : 540
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.77" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "a410f713930127bd",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044598308,
+        "stop" : 1623044599527,
+        "duration" : 1219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.77" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "84f568fe57175644",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044599527,
+        "stop" : 1623044599569,
+        "duration" : 42
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.77" ]
+    }, {
+      "name" : "",
+      "uid" : "88f203bc6b5daca7",
+      "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623044599569,
+        "stop" : 1623044599569,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.77" ]
+    } ],
+    "uid" : "fdbdc9ea7ee956858561e08f47b3a285"
+  } ]
+}
